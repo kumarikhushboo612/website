@@ -1,0 +1,8 @@
+/* navbar */
+.navbar-default {
+    background-color: rgb(21, 107, 110);
+    border-color: rgb(27, 168, 69);
+}
+.navbar-nav>li>a {
+    color: aqua
+}
